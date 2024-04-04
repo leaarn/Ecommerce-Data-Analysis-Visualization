@@ -6,7 +6,7 @@ Worked with the Brazilian ecommerce public dataset from Olist Store consisting o
 
 ## Objectives
 
-understanding the end-to-end customer journey, from order placement to product delivery and post-purchase feedback. We utilized this information to generate marketing findings and strategic recommendations.
+Our project's objective is to gain a deep understanding of Olist's customer journey, encompassing order placement, product delivery, and post-purchase feedback. By analyzing data and extracting customer insights, we aim to pinpoint critical touchpoints, pain points, and improvement opportunities specific to Olist's operations. This analysis will inform the generation of actionable marketing findings and strategic recommendations tailored to enhance Olist's customer satisfaction, drive revenue growth, and optimize operational efficiency.
 
 Here are some pages of our dashboard. If interested, you can view the full version by clicking on [olist_powerbi_dashboard](olist_powerbi_dashboard.pdf)
 
@@ -17,3 +17,4 @@ Here are some pages of our dashboard. If interested, you can view the full versi
 
 
 ![olist_population income](https://github.com/leaarn/Ecommerce-Data-Analysis-Visualization/assets/125840819/f491d509-efac-419c-9ebc-c593b7bc9b2b)
+

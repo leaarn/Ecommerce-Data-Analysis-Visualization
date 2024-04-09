@@ -1,4 +1,4 @@
-# Ecommerce Data Analysis Visualization
+# Ecommerce Data Analysis and Visualization
 
 ## Project description
 
